@@ -1,0 +1,11 @@
+[
+  {
+    "___comment___": "**** Credentials for login ****",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "__comment__": "***** Data to fill while checkout *****",
+    "firstName": "Abdelrahman",
+    "lastName": "Elshemy",
+    "postalCode": "36686"
+  }
+]
