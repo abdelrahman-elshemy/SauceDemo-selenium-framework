@@ -204,3 +204,9 @@ mvn test -P parallel-execution -Dbrowser=edge
 
 Professional Selenium Automation Framework developed to demonstrate real-world automation testing skills and framework design principles.
 
+---
+
+# Project execution (VIDEO)
+
+https://drive.google.com/file/d/1KXtD6seW1NyzKzY1tMbK56QVImuAltpj/view?usp=sharing
+
